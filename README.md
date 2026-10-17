@@ -7,8 +7,7 @@ root@beluga:~$ cat about.txt
 name      : BELUGA
 from      : Tunisia 🇹🇳  →  living in Japan 🇯🇵
 role      : bug bounty hunter · security researcher · full-stack developer
-building  : NihonCV — the Japanese 履歴書 (resume) builder for foreigners in Japan
-off-duty  : ⚽ soccer · anime figure collector
+off-duty  : ⚽ soccer · anime figure collector - video games
 ```
 
 ### 🎯 What I hunt for
